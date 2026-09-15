@@ -1,6 +1,6 @@
 {
   "name": "NetSpeed PWA",
-  "short_name": "WebSpeed",
+  "short_name": "NetSpeed",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f172a",
